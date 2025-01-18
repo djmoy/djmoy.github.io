@@ -4,7 +4,8 @@
 3. This repository will hold my CTI-110 assignments.
 # About Me
 ## My interests
-* My hobbies
+
+ My hobbies
  * Sim drifting
  * Editing
 ## Websites I Recommend
